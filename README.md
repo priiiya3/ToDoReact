@@ -1,5 +1,21 @@
 # [ToDoReact](https://un5sn3.csb.app/)
 
+## STEPS TO RUN THE APP:
+1. Colne the repo using the cmd: 
+  ```
+  git clone https://github.com/priiiya3/ToDoReact.git
+  ```
+2. run the command to install the required node modules:
+  ```
+    npm install
+  ```
+3. start the react app using the command:
+  ```
+  npm start
+  ```
+
+
+## ABOUT THE APP:
 
 ### The table of the ToDo List has have the following columns:
 
